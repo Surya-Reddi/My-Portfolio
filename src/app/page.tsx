@@ -30,15 +30,15 @@ export default function Home() {
             className="text-xl text-gray-700"
           >
             <p>
-        Hey there! I'm <span className="font-bold text-purple-600">Surya Prasad</span>, a final-year student at IIT ISM Dhanbad pursuing Integrated M.Tech in Mathematics and Computing. 
-        I'm passionate about turning complex problems into elegant solutions through code and data.
+        Hey there! I&apos;m <span className="font-bold text-purple-600">Surya Prasad</span>, a final-year student at IIT ISM Dhanbad pursuing Integrated M.Tech in Mathematics and Computing. 
+        I&apos;m passionate about turning complex problems into elegant solutions through code and data.
       </p>
       <p>
         My journey in tech has been quite exciting - from developing AI-powered applications during my internship at Axtria to creating machine learning models that predict cricket match outcomes with 85% accuracy. 
         I love working at the intersection of mathematics, computer science, and real-world applications.
       </p>
       <p>
-        When I'm not coding, you'll find me strategizing over a chess board (I've won gold at my college fest!), playing badminton, or volunteering with KARTAVYA to teach underprivileged children. 
+        When I&apos;m not coding, you&apos;ll find me strategizing over a chess board (I&apos;ve won gold at my college fest!), playing badminton, or volunteering with KARTAVYA to teach underprivileged children. 
         I believe in using technology not just to solve problems, but to make a positive impact on society.
       </p>
           </motion.div>
@@ -451,7 +451,7 @@ export default function Home() {
           <div className="text-4xl mb-4">🚀</div>
           <h3 className="text-2xl font-bold mb-3">Flipkart Grid 2023</h3>
           <p className="text-lg mb-4">Pre-finalist Status</p>
-          <p className="text-purple-100">Ranked among top performers out of <strong>500,000</strong> participants in India's biggest tech challenge</p>
+          <p className="text-purple-100">Ranked among top performers out of <strong>500,000</strong> participants in India&apos;s biggest tech challenge</p>
         </div>
       </motion.div>
 
@@ -485,7 +485,7 @@ export default function Home() {
           <div className="text-4xl mb-4">👑</div>
           <h3 className="text-2xl font-bold mb-3">Chess Champion</h3>
           <p className="text-lg mb-4">Gold Medal at Parakram</p>
-          <p className="text-yellow-100">Winner at IIT ISM's sports fest + Silver in General Championship</p>
+          <p className="text-yellow-100">Winner at IIT ISM&apos;s sports fest + Silver in General Championship</p>
         </div>
       </motion.div>
 
@@ -554,9 +554,9 @@ export default function Home() {
         className="space-y-8"
       >
         <div>
-          <h3 className="text-2xl font-bold mb-6 text-gray-800">Let's Connect!</h3>
+          <h3 className="text-2xl font-bold mb-6 text-gray-800">Let&apos;s Connect!</h3>
           <p className="text-lg text-gray-600 mb-8">
-            I'm always excited to discuss new opportunities, innovative projects, or just have a chat about technology. 
+            I&apos;m always excited to discuss new opportunities, innovative projects, or just have a chat about technology. 
             Feel free to reach out!
           </p>
         </div>
@@ -648,7 +648,7 @@ export default function Home() {
             <input 
               type="text" 
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all"
-              placeholder="What's this about?"
+              placeholder="What&apos;s this about?"
             />
           </div>
           
